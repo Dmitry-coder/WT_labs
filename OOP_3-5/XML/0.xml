@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HyperCar>
+    <carModel>buggati</carModel>
+    <carType>HyperCar</carType>
+    <powerOfTheCar>0</powerOfTheCar>
+</HyperCar>

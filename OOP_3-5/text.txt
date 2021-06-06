@@ -1,0 +1,1 @@
+HyperCar buggati class sample.car.CarTypes.HyperCar 100
